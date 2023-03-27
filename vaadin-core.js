@@ -51,3 +51,4 @@ import '@vaadin/time-picker';
 import '@vaadin/upload';
 import '@vaadin/vertical-layout';
 import '@vaadin/virtual-list';
+import '@vaadin/vaadin-lumo-styles/all-imports.js';
